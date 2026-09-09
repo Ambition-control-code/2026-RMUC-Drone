@@ -1,0 +1,39 @@
+T7744 000:031.606   SEGGER J-Link V9.10 Log File
+T7744 000:035.863   DLL Compiled: Jan 14 2026 11:30:41
+T7744 000:035.901   Logging started @ 2026-08-25 14:51
+T7744 000:035.936   Process: E:\keil5\UV4\UV4.exe
+T7744 000:039.772 - 35.971ms 
+T7744 000:041.158 JLINK_SetWarnOutHandler(...)
+T7744 000:041.203 - 1.342ms 
+T7744 000:041.240 JLINK_OpenEx(...)
+T7744 000:066.342   Firmware: J-Link V9 compiled Oct 12 2012 BTL     
+T7744 000:067.045   Firmware: J-Link V9 compiled Oct 12 2012 BTL     
+T7744 000:073.650   Decompressing FW timestamp took 4004 us
+T7744 000:086.500   Decompressing FW took 12730 us
+T7744 000:088.313   Looking for J-Link GUI Server exe at: E:\keil5\ARM\Segger\JLinkGUIServer.exe
+T7744 000:088.555   Looking for J-Link GUI Server exe at: E:\down\JLink\JLink_V910\JLinkGUIServer.exe
+T7744 000:091.131   Forking J-Link GUI Server: E:\down\JLink\JLink_V910\JLinkGUIServer.exe
+T7744 000:563.416   Failed to connect to J-Link GUI Server.
+T7744 000:567.479   Updating firmware:  J-Link V9 compiled May  7 2021 16:26:12
+T7744 000:570.329   Replacing firmware: J-Link V9 compiled Oct 12 2012 BTL     
+T7744 000:570.571   Looking for J-Link GUI Server exe at: E:\keil5\ARM\Segger\JLinkGUIServer.exe
+T7744 000:570.638   Looking for J-Link GUI Server exe at: E:\down\JLink\JLink_V910\JLinkGUIServer.exe
+T7744 000:570.681   Forking J-Link GUI Server: E:\down\JLink\JLink_V910\JLinkGUIServer.exe
+T7744 000:813.949   J-Link GUI Server info: "J-Link GUI server V9.10 "
+T7744 003:173.996   Waiting for new firmware to boot
+T7744 018:270.074   
+  ***** Error: 
+T7744 018:270.180   Communication timed out: Requested 4 bytes, received 0 bytes !
+T7744 018:270.260   
+  ***** Error: 
+T7744 018:270.324   Could not read J-Link capabilities.
+T7744 018:270.414   
+  ***** Error: 
+T7744 018:270.476   Cannot connect to J-Link
+T7744 018:271.006 - 18229.764ms returns "Communication timed out: Requested 4 bytes, received 0 bytes !
+Could not read J-Link capabilities.
+Cannot connect to J-Link"
+T7744 079:908.976 JLINK_Close()
+T7744 079:916.480 - 7.495ms
+T7744 079:936.656   
+T7744 079:936.760   Closed
